@@ -1,0 +1,1 @@
+# Invert-the-input-number-and-equal-the-input-number
